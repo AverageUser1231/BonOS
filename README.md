@@ -1,5 +1,9 @@
 # BonOS
 
+## Disclaimer
+
+While BonOS is completely harmless and only opens Notepad or Google, **Windows might flag the `.bat` file as potentially harmful** due to its nature as a batch script. This is a false positive and does not pose any threat to your PC. If you're sure the file is from a trusted source, you can safely ignore the warning and proceed to run it.
+
 BonOS is a lightweight, simple project built using a batch script (.bat). It allows you to quickly open Notepad or Google (the website) with a single command. This is perfect for users looking for a minimalistic tool to launch these apps without needing to navigate through menus or desktops.
 
 ## Features
